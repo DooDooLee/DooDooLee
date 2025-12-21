@@ -1,4 +1,4 @@
-## Hi I'm Seung-Yeop Lee
+## 안녕하세요 이승엽입니다.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DooDooLee&show_icons=true&theme=radical)](https://github.com/DooDooLee)
 
