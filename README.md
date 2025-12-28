@@ -1,5 +1,4 @@
 ## 안녕하세요 이승엽입니다.
-## 🏅 GitHub Activity Rank
 
 ![GitHub Rank](https://github-readme-stats.vercel.app/api?username=DooDooLee&rank_icon=github)
 
