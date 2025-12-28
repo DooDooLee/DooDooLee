@@ -4,4 +4,6 @@
 
 [![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DooDooLee&theme=radical)](https://github.com/DooDooLee)
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DooDooLee&theme=radical)](https://github.com/DooDooLee)
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=axc5126)](https://solved.ac/profile/axc5126)
