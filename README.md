@@ -1,7 +1,6 @@
 ## 안녕하세요 이승엽입니다.
+![Top Languages by Repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DooDooLee)
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=DooDooLee&show_icons=true&theme=radical&cache_seconds=86400)](https://github.com/DooDooLee)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DooDooLee&theme=radical)](https://github.com/DooDooLee)
+![Top Languages by Commit](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DooDooLee)
 
 [![Solved.ac Profile](https://mazassumnida.wtf/api/v2/generate_badge?boj=axc5126)](https://solved.ac/profile/axc5126)
